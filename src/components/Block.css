@@ -1,0 +1,7 @@
+.Block {
+  position: fixed;
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+  background: #61DAFB;
+}

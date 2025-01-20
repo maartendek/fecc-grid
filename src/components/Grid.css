@@ -1,0 +1,5 @@
+.Grid {
+  width: 300px;
+  height: 300px;
+  background: repeating-linear-gradient(to right,#000 0 1px, transparent 0 33.33%),repeating-linear-gradient(#000 0 1px, #545c6b 0 33.33%);
+}
