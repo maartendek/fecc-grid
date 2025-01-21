@@ -24,6 +24,10 @@ function App() {
             Note: there is no actual grid, those are just css background lines.
           </em>
         </p>
+        <code>
+          Created with{" "}
+          <a href="https://create-react-app.dev/">create-react-app</a>
+        </code>
       </main>
     </div>
   );
